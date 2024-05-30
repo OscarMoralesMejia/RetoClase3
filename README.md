@@ -2,9 +2,9 @@
 Esta practica trata de automatizar la ejecución de docker-compose.yml desde un archivo de consola inicio.sh.
 
 
-1.- Clonar el repositorio
+1.- Clonar el repositorio  
     Primero necesitas clonar este repositorio para que obtengas los archivos necesarios esto lo puedes hacer de la siguiente manera:
-    Desde tu terminal escribe el siguiente comando: `git clone https://github.com/OscarMoralesMejia/RetoClase3`
+    Desde tu terminal escribe el siguiente comando:   `git clone https://github.com/OscarMoralesMejia/RetoClase3`  
 
 2.- Abrir en windows gitBash
 
